@@ -15,7 +15,7 @@ Los principales atributos que todos lo hashes deben seguir con los siguientes;
 
 ### Demostración Hash MD5
 
-Es importante recalcar que el hash md5 ya esta obsoleto porque se lograron realizar colisiones y por tanto es una función hash que no debemos utilizar, no obstante para la demostración de los atributos no sirve de base, vamos a crear un archivo y luego sacaremos el hash MD5
+Es importante recalcar que el hash md5 ya esta obsoleto porque se lograron realizar colisiones y por tanto es una función hash que no debemos utilizar, no obstante para la demostración de los atributos nos sirve de base, vamos a crear un archivo y luego sacaremos el hash MD5
 
 ![1](img/1.png)
 
